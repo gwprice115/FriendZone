@@ -8,10 +8,14 @@ import views.html.*;
 
 public class Application extends Controller {
   
-	static Form<Task> taskForm = Form.form(Task.class);
+	static Form<HousingForm> housingForm = Form.form(HousingForm.class);
 
     public static Result index() {
-        return ok("Hello world");
+        return ok(index.render("Hello"));
+    }
+    
+    public static Result newTask() {
+    	return TODO;
     }
   
     

@@ -1,0 +1,12 @@
+{
+  "/Library/Java/JavaVirtualMachines/jdk1.7.0_11.jdk/Contents/Home/jre/lib/rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_11.jdk/Contents/Home/jre/lib/rt.jar",
+    "status": "RESOLVED"
+  },
+  "/Users/Bill/FriendZone/housingApp/target/scala-2.10/classes_managed": {
+    "location": "/Users/Bill/FriendZone/housingApp/target/scala-2.10/classes_managed",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/Bill/FriendZone/housingApp/target/scala-2.10/classes_managed\u0027. Skipped."
+  }
+}

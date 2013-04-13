@@ -1,0 +1,9 @@
+package models;
+
+public class HousingForm {
+	
+	
+	
+	public HousingForm(List<Student> primaries, List<Student> alternates,
+
+}
