@@ -1,0 +1,10 @@
+package models;
+
+public interface Student {
+	
+	private final String name;
+	private final int id;
+	private final int year;
+	private final int draw;
+
+}

@@ -1,0 +1,18 @@
+package models;
+
+public interface Student {
+	
+	protected final String name;
+	 final int id;
+	 final int year;
+	private final int draw;
+	
+	
+	public String getNames();
+	
+	public int getId();
+	
+	public int getYear();
+	
+	public int getDraw();
+}
